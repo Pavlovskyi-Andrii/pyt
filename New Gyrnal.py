@@ -1,0 +1,1 @@
+new_gyrnal = (Andry,Drug)
